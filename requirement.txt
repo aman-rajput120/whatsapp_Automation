@@ -1,0 +1,7 @@
+Python == 3.14.3
+Pandas == 3.0.0
+Selenium == 4.40.0
+Selenium WebDriver == 4.40.0
+Chrome == 145.0.7632.68.
+Numbers.csv file 
+File Path to be Send  
