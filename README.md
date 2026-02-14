@@ -87,7 +87,7 @@ Make sure Google Chrome is installed and updated.
 How the Script Works
      Step 1: Open WhatsApp Web
      Launches Chrome browser
-    Waits for QR code login
+    Waits for QR code login.
     Step 2: Open New Chat
    Clicks the New Chat icon 
    Step 3: Search Phone Number
